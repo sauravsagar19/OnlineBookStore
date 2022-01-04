@@ -1,0 +1,117 @@
+.cover{
+    background-image: url(book_cover2.jpg);
+    background-size:cover;
+    height: 300px;
+}
+.yyy{
+    width: 90%;
+    height: 1px;
+    background-color: white;
+    margin-left: 5%;
+    border-radius: 5px;
+}
+.zzz{
+    background-image: url(background_log_in.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.ccc{
+    width:40%;
+    height: 350px;
+    margin-top: 40px;
+    margin-left: 30%;
+}
+.cc1{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 40px;
+    border-radius: 5px;
+}
+.cc2{
+    margin-top: 20px;
+    margin-left: 5px;
+    height: 40px;
+    border-radius: 5px;
+}
+.cc3{
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+.qqq{
+    background-image: url(bb9.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.aaa{
+    width:60%;
+    height: 400px;
+    margin-left: 25%;
+}
+.aa2{
+    margin-top: 20px;
+    margin-left: 27px;
+    height: 40px;
+    border-radius: 5px;
+}
+.aa3{
+    margin-top: 20px;
+    margin-left: 27px;
+    height: 40px;
+    width: 225px;
+    border-radius: 5px;
+}
+.aa4{
+     margin-top: 20px;
+    height: 40px;
+    border-radius: 5px;
+}
+.aa41{
+    margin-left: 27px;
+    border-radius: 5px;
+}
+.aa5{
+    margin-left: 7px;
+    height: 40px;
+    width: 275px;
+    border-radius: 5px;
+}
+.aa6{
+    margin-top: 20px;
+    margin-left: 2px;
+    height: 40px;
+    border-radius: 5px;
+}
+.aa61{
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 40px;
+    border-radius: 5px;
+}
+.aa7{
+    margin-top: 20px;
+    margin-left: 200px;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+.mm{
+    margin-left: 70px;
+    font-weight: 900;
+    border-left: 2px;
+    border-left-color: white;
+}
+.gap{
+    float: left;
+    width: 100%;
+    margin-top: 66px;
+}
+.cover1{
+    background-image: url(bb2%20-%20Copy.jpg);
+    height: 348px;
+    width:750px;
+    margin-left:100px;
+    margin-top: 20px;
+}
